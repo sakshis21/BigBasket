@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="2" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="28153" started-at="2019-07-02T09:17:37Z" finished-at="2019-07-02T09:18:05Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="28153" started-at="2019-07-02T09:17:37Z" finished-at="2019-07-02T09:18:05Z">
+      <class name="com.addcart.MyBasket">
+        <test-method status="PASS" signature="LaunchBrowserChrome()[pri:0, instance:com.addcart.MyBasket@20e2cbe0]" name="LaunchBrowserChrome" is-config="true" duration-ms="19504" started-at="2019-07-02T09:17:37Z" finished-at="2019-07-02T09:17:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchBrowserChrome -->
+        <test-method status="PASS" signature="VerifyMultipleProductFunctionality()[pri:0, instance:com.addcart.MyBasket@20e2cbe0]" name="VerifyMultipleProductFunctionality" duration-ms="8627" started-at="2019-07-02T09:17:56Z" finished-at="2019-07-02T09:18:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyMultipleProductFunctionality -->
+      </class> <!-- com.addcart.MyBasket -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
